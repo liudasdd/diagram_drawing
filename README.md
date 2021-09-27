@@ -1,2 +1,7 @@
-# diagram_drawing
-Drawing frame for diagram.net
+# Drawing frame
+
+Here is a drawing frame template for a draw.io or diagram.net app
+
+You can find A4 portrait and landscape template which helps you to organise your technical drawings
+
+![](drawing_frame.sv)
